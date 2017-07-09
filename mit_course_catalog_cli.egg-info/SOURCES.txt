@@ -1,0 +1,8 @@
+hello.py
+setup.py
+mit_course_catalog_cli.egg-info/PKG-INFO
+mit_course_catalog_cli.egg-info/SOURCES.txt
+mit_course_catalog_cli.egg-info/dependency_links.txt
+mit_course_catalog_cli.egg-info/entry_points.txt
+mit_course_catalog_cli.egg-info/requires.txt
+mit_course_catalog_cli.egg-info/top_level.txt

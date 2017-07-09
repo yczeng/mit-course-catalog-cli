@@ -1,0 +1,4 @@
+
+		[Console_scripts]
+		myhello=hello:cli
+		

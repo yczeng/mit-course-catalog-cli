@@ -1,0 +1,7 @@
+hello.py
+myhello.egg-info/PKG-INFO
+myhello.egg-info/SOURCES.txt
+myhello.egg-info/dependency_links.txt
+myhello.egg-info/entry_points.txt
+myhello.egg-info/requires.txt
+myhello.egg-info/top_level.txt
