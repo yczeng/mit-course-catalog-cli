@@ -6,6 +6,10 @@ setup(
     py_modules=['main'],
     install_requires=[
         'Click',
+        'bs4',
+        'urllib',
+        'lxml',
+        'pyquery',
     ],
     entry_points='''
         [console_scripts]
