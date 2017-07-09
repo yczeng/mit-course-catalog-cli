@@ -19,11 +19,11 @@ sudo pip install --editable .
 ```
 To see the list of commands, type:
 ```
-cc --help
+mit-cc --help
 ```
-For example to see the main menu, type:
+For example, to see the main menu, type:
 ```
-cc --menu
+mit-cc --menu
 ```
 
 # License
