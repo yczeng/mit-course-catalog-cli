@@ -21,7 +21,11 @@ To see the list of commands, type:
 ```
 mit-cc --help
 ```
-For example, to see the main menu, type:
+Really though, there are just two commands. To search courses by either name or subject number, type:
+```
+mit-cc --search *search query here*
+```
+To see the main menu, type:
 ```
 mit-cc --menu
 ```
