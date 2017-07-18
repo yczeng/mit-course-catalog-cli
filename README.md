@@ -12,10 +12,10 @@ Clone the repository:
 git clone https://github.com/yczeng/mit-course-catalog-cli
 cd mit-course-catalog-cli
 ```
-Build the library:
+Build the library. Note that there's a period after install.
 
 ```
-sudo pip install --editable .
+sudo pip install .
 ```
 To see the list of commands, type:
 ```
