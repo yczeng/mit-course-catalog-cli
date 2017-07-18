@@ -21,9 +21,9 @@ To see the list of commands, type:
 ```
 mit-cc --help
 ```
-Really though, there are just two commands. To search courses by either name or subject number, type:
+Really though, there are just two commands. To search courses by either name or subject number, use the following command. Make sure you include quotations when searching up multiple words.
 ```
-mit-cc --search *search query here*
+mit-cc --search "TEXT"
 ```
 To see the main menu, type:
 ```
