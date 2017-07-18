@@ -15,7 +15,7 @@ cd mit-course-catalog-cli
 Build the library. Note that there's a period after install.
 
 ```
-sudo pip2 install .
+sudo pip2 install --editable .
 ```
 To see the list of commands, type:
 ```
